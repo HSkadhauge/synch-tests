@@ -59,7 +59,7 @@
             </v1:externalParticipant>
         </v1:externalParticipants>
         <v1:organisations>
-            <v1:organisation id="organisation1" />
+            <v1:organisation id="84859120" />
         </v1:organisations>
         <v1:externalOrganisations>
             <v3:externalOrganisationAssociation>
@@ -68,7 +68,7 @@
                 <v3:externalOrgId>UoE</v3:externalOrgId>
             </v3:externalOrganisationAssociation>
         </v1:externalOrganisations>
-        <v1:managedByOrganisation id="organisation1" />
+        <v1:managedByOrganisation id="84859120" />
         <v1:startDate>2007-10-26+01:00</v1:startDate>
         <v1:endDate>2008-02-14+02:00</v1:endDate>
         <v1:curtailed>
