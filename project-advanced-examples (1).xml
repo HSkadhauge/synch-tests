@@ -51,7 +51,7 @@
             <v1:organisation id="84859120" />
         </v1:organisations>
         <v1:managedByOrganisation id="84859120" />
-        <v1:startDate>2007-10-26+01:00</v1:startDate>
+        <v1:startDate>2007-10-26</v1:startDate>
         <v1:collaborative>false</v1:collaborative>
         <v1:visibility>Public</v1:visibility>
         <v1:workflow>approved</v1:workflow>
