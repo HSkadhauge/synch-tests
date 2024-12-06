@@ -29,7 +29,7 @@
             <v1:internalParticipant>
                 <v1:personId>person1</v1:personId>
                 <v1:organisationIds>
-                    <v1:organisation id="organisation1" />
+                    <v1:organisation id="84859120" />
                 </v1:organisationIds>
                 <v1:role>pi</v1:role>
                 <v1:academicOwnership>1.0</v1:academicOwnership>
@@ -40,7 +40,7 @@
         </v1:internalParticipants>
         <v1:internalParticipantsResearcherCommitment>
             <v1:researcherCommitment>
-                <v1:personId>person1</v1:personId>
+                <v1:personId>67663479</v1:personId>
                 <v1:year>2008</v1:year>
                 <v1:month>1</v1:month>
                 <v1:plannedCommitment>1.0</v1:plannedCommitment>
