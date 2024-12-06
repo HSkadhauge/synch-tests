@@ -27,7 +27,7 @@
         </v1:ids>
         <v1:internalParticipants>
             <v1:internalParticipant>
-                <v1:personId>67663479</v1:personId>
+                <v1:personId>297472</v1:personId>
                 <v1:organisationIds>
                     <v1:organisation id="84859120" />
                 </v1:organisationIds>
@@ -40,7 +40,7 @@
         </v1:internalParticipants>
         <v1:internalParticipantsResearcherCommitment>
             <v1:researcherCommitment>
-                <v1:personId>67663479</v1:personId>
+                <v1:personId>297472</v1:personId>
                 <v1:year>2008</v1:year>
                 <v1:month>1</v1:month>
                 <v1:plannedCommitment>1.0</v1:plannedCommitment>
