@@ -75,7 +75,7 @@
             <v1:date>2008-01-14</v1:date>
             <v1:reason>Postponed due to the lack of resources</v1:reason>
         </v1:curtailed>
-        <v1:collaborative>true</v1:collaborative>
+        <v1:collaborative>false</v1:collaborative>
         <v1:collaborators>
             <v3:collaborator type="jointapplicant">
                 <v3:externalOrgName>University of Europe</v3:externalOrgName>
