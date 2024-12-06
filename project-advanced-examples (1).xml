@@ -81,7 +81,7 @@
                 <v3:externalOrgName>University of Europe</v3:externalOrgName>
                 <v3:externalOrgType>unknown</v3:externalOrgType>
                 <v3:externalOrgId>UeO</v3:externalOrgId>
-                <v3:leadCollaborator>false</v3:leadCollaborator>
+                <v3:leadCollaborator>true</v3:leadCollaborator>
             </v3:collaborator>
         </v1:collaborators>
         <v1:relatedAwards>
