@@ -1,0 +1,142 @@
+<result xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://localhost:8080/ws/api/512/xsd/schema1.xsd">
+    <project externalId="project1">
+        <title>The Project Title</title>
+        <type uri="/dk/atira/pure/upmproject/upmprojecttypes/upmproject/research">Research</type>
+        <natureTypes>
+            <natureType uri="/dk/atira/pure/upm/nature/research">Research</natureType>
+        </natureTypes>
+        <status key="CURTAILED">Curtailed</status>
+        <shortTitle>Title</shortTitle>
+        <acronym>TPT</acronym>
+        <descriptions>
+            <description typeUri="/dk/atira/pure/upmproject/descriptions/projectdescription" type="Description">The is the description of the project.</description>
+            <description typeUri="/dk/atira/pure/upmproject/descriptions/laymansdescription" type="Layman's description">Layman's description</description>
+            <description typeUri="/dk/atira/pure/upmproject/descriptions/keyfindings" type="Key findings">Key findings description</description>
+        </descriptions>
+        <ids>
+            <id typeUri="/dk/atira/pure/upm/classifiedsource/contractid" type="Contract ID">ContractID</id>
+            <id typeUri="/dk/atira/pure/upm/classifiedsource/projectid" type="Project ID">ProjectID</id>
+        </ids>
+        <participants>
+            <participant>
+                <person externalId="person1">
+                    <link ref="content" href="http://localhost:8080/ws/api/512/persons/a4740fe0-0488-439f-9626-48d14058fe8f?apiKey=1e502d43-7c97-41bb-b6cf-4e83e8d40eaa"/>
+                    <name>Person</name>
+                </person>
+                <name>
+                    <lastName>Person</lastName>
+                </name>
+                <personRole uri="/dk/atira/pure/upmproject/roles/upmproject/pi">PI</personRole>
+                <organisationalUnits>
+                    <organisationalUnit externalId="organisation1">
+                        <link ref="content" href="http://localhost:8080/ws/api/512/organisational-units/b1e9313e-0977-4e2a-a7c7-30fd8f5678cb?apiKey=1e502d43-7c97-41bb-b6cf-4e83e8d40eaa"/>
+                        <name>Org</name>
+                        <type pureId="1026" uri="/dk/atira/pure/organisation/organisationtypes/organisation/university">University</type>
+                    </organisationalUnit>
+                </organisationalUnits>
+                <period>
+                    <startDate>2018-05-01</startDate>
+                    <endDate>2018-08-01</endDate>
+                </period>
+            </participant>
+            <participant>
+                <person externalId="person2">
+                    <link ref="content" href="http://localhost:8080/ws/api/512/persons/924c481d-4cfc-4c46-8e4c-08b0946bdf7a?apiKey=1e502d43-7c97-41bb-b6cf-4e83e8d40eaa"/>
+                    <name>Person1</name>
+                </person>
+                <name>
+                    <lastName>Person1</lastName>
+                </name>
+                <personRole uri="/dk/atira/pure/upmproject/roles/upmproject/pi">PI</personRole>
+                <organisationalUnits>
+                    <organisationalUnit externalId="organisation1">
+                        <link ref="content" href="http://localhost:8080/ws/api/512/organisational-units/b1e9313e-0977-4e2a-a7c7-30fd8f5678cb?apiKey=1e502d43-7c97-41bb-b6cf-4e83e8d40eaa"/>
+                        <name>Org</name>
+                        <type uri="/dk/atira/pure/organisation/organisationtypes/organisation/university">University</type>
+                    </organisationalUnit>
+                </organisationalUnits>
+                <period>
+                    <startDate>2018-05-01</startDate>
+                    <endDate>2018-08-01</endDate>
+                </period>
+            </participant>
+        </participants>
+        <organisationalUnits>
+            <organisationalUnit externalId="organisation1">
+                <link ref="content" href="http://localhost:8080/ws/api/512/organisational-units/b1e9313e-0977-4e2a-a7c7-30fd8f5678cb?apiKey=1e502d43-7c97-41bb-b6cf-4e83e8d40eaa"/>
+                <name>Org</name>
+                <type uri="/dk/atira/pure/organisation/organisationtypes/organisation/university">University</type>
+            </organisationalUnit>
+        </organisationalUnits>
+        <managingOrganisationalUnit externalId="organisation1">
+            <link ref="content" href="http://localhost:8080/ws/api/512/organisational-units/b1e9313e-0977-4e2a-a7c7-30fd8f5678cb?apiKey=1e502d43-7c97-41bb-b6cf-4e83e8d40eaa"/>
+            <name>Org</name>
+            <type uri="/dk/atira/pure/organisation/organisationtypes/organisation/university">University</type>
+        </managingOrganisationalUnit>
+        <collaborative>true</collaborative>
+        <collaborators>
+            <collaborator>
+                <leadCollaborator>true</leadCollaborator>
+                <organisationalUnit externalId="organisation1">
+                    <link ref="content" href="http://localhost:8080/ws/api/512/organisational-units/b1e9313e-0977-4e2a-a7c7-30fd8f5678cb?apiKey=1e502d43-7c97-41bb-b6cf-4e83e8d40eaa"/>
+                    <name>Org</name>
+                    <type uri="/dk/atira/pure/organisation/organisationtypes/organisation/university">University</type>
+                </organisationalUnit>
+            </collaborator>
+            <collaborator>
+                <leadCollaborator>false</leadCollaborator>
+                <externalOrganisation externalId="extOrganisation1">
+                    <link ref="content" href="http://localhost:8080/ws/api/512/external-organisations/7b893a06-48b6-43f9-92b0-cc8baafe9a6c?apiKey=1e502d43-7c97-41bb-b6cf-4e83e8d40eaa"/>
+                    <name>CollabOrg</name>
+                    <type uri="/dk/atira/pure/ueoexternalorganisation/ueoexternalorganisationtypes/ueoexternalorganisation/fundingbody">Funding body</type>
+                </externalOrganisation>
+            </collaborator>
+        </collaborators>
+        <period>
+            <startDate>2018-05-01</startDate>
+            <endDate>2019-05-31</endDate>
+        </period>
+        <curtailed>true</curtailed>
+        <curtailDate>2018-08-01</curtailDate>
+        <curtailReason>Curtail reason</curtailReason>
+        <documents>
+            <document>
+                <title>Document</title>
+                <documentType uri="/dk/atira/pure/core/document/types/text">Text</documentType>
+                <url>http://localhost:8080/ws/files/3618973/Document.pdf</url>
+                <visibility key="FREE">Public - No restriction</visibility>
+                <creator>atira</creator>
+                <created>2018-05-08T10:20:19.987+02:00</created>
+            </document>
+        </documents>
+        <links>
+            <link>
+                <url>http://www.link.com</url>
+                <description>Link</description>
+            </link>
+        </links>
+        <keywordGroups>
+            <keywordGroup logicalName="keywordContainers">
+                <type>Keywords</type>
+                <keywords>
+                    <keyword>Keyword1</keyword>
+                    <keyword>Keyword2</keyword>
+                </keywords>
+            </keywordGroup>
+        </keywordGroups>
+        <fieldOfResearchAssociations>
+            <fieldOfResearchAssociation>
+                <fieldOfResearch uri="010110">Partial Differential Equations</fieldOfResearch>
+                <splitPercentage>1.0</splitPercentage>
+            </fieldOfResearchAssociation>
+        </fieldOfResearchAssociations>
+        <visibility key="FREE">Public - No restriction</visibility>
+        <confidential>false</confidential>
+        <info>
+            <createdBy>atira</createdBy>
+            <createdDate>2018-05-08T10:13:54.547+02:00</createdDate>
+            <modifiedBy>atira</modifiedBy>
+            <modifiedDate>2018-05-08T10:20:20.133+02:00</modifiedDate>
+        </info>
+    </project>
+</result>
