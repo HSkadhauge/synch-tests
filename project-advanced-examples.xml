@@ -1,4 +1,4 @@
-<result xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://localhost:8080/ws/api/512/xsd/schema1.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
     <project externalId="project1">
         <title>The Project Title</title>
         <type uri="/dk/atira/pure/upmproject/upmprojecttypes/upmproject/research">Research</type>
