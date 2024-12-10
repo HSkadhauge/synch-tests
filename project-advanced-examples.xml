@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<v1:upmprojects xmlns:v1="v1.upmproject.pure.atira.dk" xmlns:v3="v3.commons.pure.atira.dk">
     <project externalId="project1">
         <title>The Project Title</title>
         <type uri="/dk/atira/pure/upmproject/upmprojecttypes/upmproject/research">Research</type>
