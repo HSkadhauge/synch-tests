@@ -1,38 +1,6 @@
 <result
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://localhost:8080/ws/api/512/xsd/schema1.xsd">
-	<title>Pædagogik og kulturforskelle</title>
-	<type uri="/dk/atira/pure/upmproject/upmprojecttypes/upmproject/">953830003</type>
-	<ids>
-		<id typeUri="/dk/atira/pure/upm/classifiedsource/projectid" type="Project ID">622b820c-24bd-48c9-a0f6-ff9a809a0c80</id>
-	</ids>
-	<descriptions>
-		<description typeUri="/dk/atira/pure/upmproject/descriptions/projectdescription" type="Description"></description>
-	</descriptions>
-	<participants>
-		<participant>
-			<person externalId="4a809b19-997e-eb11-b1ab-000d3ab4f625">
-				<link ref="content" href="link-to-record" />
-				<name>Thor</name>
-			</person>
-			<name>
-				<lastName>Tankred</lastName>
-			</name>
-			<personRole uri="/dk/atira/pure/upmproject/roles/upmproject/ui">UI</personRole>
-		</participant>
-	</participants>
-	<collaborators></collaborators>
-	<period>
-		<startDate>2021-04-01T22:00:00Z</startDate>
-		<endDate>2021-09-23T16:00:00Z</endDate>
-	</period>
-	<info>
-		<createdBy></createdBy>
-		<createdDate>2021-03-24T07:17:13Z</createdDate>
-		<modifiedBy></modifiedBy>
-		<modifiedDate>2024-11-04T13:35:48Z</modifiedDate>
-	</info>
-</project>
-<project externalId="c434bdcf-3faa-4a6c-af4a-a1f26530dcef">
+	<project externalId="c434bdcf-3faa-4a6c-af4a-a1f26530dcef">
 	<title>Ligestilling i SOSU faget</title>
 	<type uri="/dk/atira/pure/upmproject/upmprojecttypes/upmproject/">953830003</type>
 	<ids>
@@ -1835,3 +1803,4 @@ fdgsdfg  fgfdsgdfsdfggfdsfg gfdsfg fdgsdfg   
 
 </project>undefined
 </result>
+
