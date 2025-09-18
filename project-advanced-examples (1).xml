@@ -65,4 +65,57 @@
         <v1:visibility>Public</v1:visibility>
         <v1:workflow>approved</v1:workflow>
     </v1:upmproject>
+    <v1:upmproject id="project5" type="other">
+        <v1:activityTypes>
+            <v1:activityType>research</v1:activityType>
+        </v1:activityTypes>
+        <v1:title>
+            <v3:text lang="en" country="GB">Testing this crap</v3:text>
+        </v1:title>
+        <v1:shortTitle>
+            <v3:text lang="en" country="GB">A short title</v3:text>
+        </v1:shortTitle>
+        <v1:acronym>TTotP</v1:acronym>
+        <v1:descriptions>
+            <v3:description type="projectdescription">
+                <v3:text lang="en" country="GB">The project description</v3:text>
+            </v3:description>
+            <v3:description type="laymansdescription">
+                <v3:text lang="en" country="GB">A laymans description of the project</v3:text>
+            </v3:description>
+            <v3:description type="keyfindings">
+                <v3:text lang="en" country="GB">A key findings description of the project</v3:text>
+            </v3:description>
+        </v1:descriptions>
+        <v1:ids>
+            <v3:id type="projectid">NumberFive</v3:id>
+        </v1:ids>
+        <v1:internalParticipants>
+            <v1:internalParticipant>
+                <v1:personId>301100</v1:personId>
+                <v1:role>pi</v1:role>
+                <v1:academicOwnership>1.0</v1:academicOwnership>
+                <v1:plannedResearcherCommitment>1.0</v1:plannedResearcherCommitment>
+                <v1:associationStartDate>2007-10-26</v1:associationStartDate>
+                <v1:associationEndDate>2008-02-14</v1:associationEndDate>
+            </v1:internalParticipant>
+        </v1:internalParticipants>
+        <v1:internalParticipantsResearcherCommitment>
+            <v1:researcherCommitment>
+                <v1:personId>297472</v1:personId>
+                <v1:year>2008</v1:year>
+                <v1:month>1</v1:month>
+                <v1:plannedCommitment>1.0</v1:plannedCommitment>
+                <v1:actualCommitment>1.0</v1:actualCommitment>
+            </v1:researcherCommitment>
+        </v1:internalParticipantsResearcherCommitment>
+        <v1:organisations>
+            <v1:organisation id="84859120" />
+        </v1:organisations>
+        <v1:managedByOrganisation id="84859120" />
+        <v1:startDate>2007-10-26</v1:startDate>
+        <v1:collaborative>false</v1:collaborative>
+        <v1:visibility>Public</v1:visibility>
+        <v1:workflow>approved</v1:workflow>
+    </v1:upmproject>
 </v1:upmprojects>
