@@ -38,6 +38,14 @@
                 <v1:associationStartDate>2007-10-26</v1:associationStartDate>
                 <v1:associationEndDate>2008-02-14</v1:associationEndDate>
             </v1:internalParticipant>
+            <v1:internalParticipant>
+                <v1:personId>301100</v1:personId>
+                <v1:role>pi</v1:role>
+                <v1:academicOwnership>1.0</v1:academicOwnership>
+                <v1:plannedResearcherCommitment>1.0</v1:plannedResearcherCommitment>
+                <v1:associationStartDate>2007-10-26</v1:associationStartDate>
+                <v1:associationEndDate>2008-02-14</v1:associationEndDate>
+            </v1:internalParticipant>
         </v1:internalParticipants>
         <v1:internalParticipantsResearcherCommitment>
             <v1:researcherCommitment>
