@@ -130,21 +130,6 @@ owned by “Danish – Norwegian Culture Foundation” in either Oslo or Copenha
                 <description>Link</description>
             </link>
         </links>
-        <keywordGroups>
-            <keywordGroup logicalName="keywordContainers">
-                <type>Keywords</type>
-                <keywords>
-                    <keyword>Keyword1</keyword>
-                    <keyword>Keyword2</keyword>
-                </keywords>
-            </keywordGroup>
-        </keywordGroups>
-        <fieldOfResearchAssociations>
-            <fieldOfResearchAssociation>
-                <fieldOfResearch uri="010110">Partial Differential Equations</fieldOfResearch>
-                <splitPercentage>1.0</splitPercentage>
-            </fieldOfResearchAssociation>
-        </fieldOfResearchAssociations>
         <visibility key="FREE">Public - No restriction</visibility>
         <confidential>false</confidential>
         <info>
