@@ -32,9 +32,6 @@
                 <v1:externalOrgId>UoE</v1:externalOrgId>
             </v1:externalParticipant>
         </v1:externalParticipants>
-        <v1:organisations>
-            <v1:organisation name="NUBU" />
-        </v1:organisations>
         <v1:externalOrganisations>
             <v3:externalOrganisationAssociation>
                 <v3:externalOrgName>Viborg Kunsthal</v3:externalOrgName>
@@ -50,18 +47,9 @@
                 <v3:externalOrgName>University of Europe</v3:externalOrgName>
                 <v3:externalOrgType>unknown</v3:externalOrgType>
                 <v3:externalOrgId>UeO</v3:externalOrgId>
-                <v3:leadCollaborator>True</v3:leadCollaborator>
+                <v3:leadCollaborator>true</v3:leadCollaborator>
             </v3:collaborator>
         </v1:collaborators>
-             <v1:keywords>
-            <v3:logicalGroup logicalName="/dk/atira/pure/upmproject/keywords/ugrp">
-                <v3:structuredKeywords>
-                    <v3:structuredKeyword>
-                        <v3:structuredKeyword classification="/dk/atira/pure/upmproject/keywords/ugrp/8000">
-                    </v3:structuredKeyword>
-                </v3:structuredKeywords>
-            </v3:logicalGroup>
-        </v1:keywords>
         <v1:visibility>Public</v1:visibility>
         <v1:workflow>approved</v1:workflow>
     </v1:upmproject>
