@@ -4,14 +4,17 @@
         <v1:title>
             <v3:text lang="da" country="DK">1st Nordic Doctoral Summit for Research on Entrepreneurship Education</v3:text>
         </v1:title>
-        <v1:descriptions>
-            <v3:description type="projectdescription">
-                <v3:text lang="da" country="DK">Nordic Doctoral Summit for Research on Entrepreneurship Education (NDSREE) will be an annual event aimed at bringing together doctoral students from the Nordic
-countries. NDSREE will launch in 2024 with an event establishing the summit as
-an institution. The purpose is to bring together the growing amount of Nordic
-PhD Students in the field of entrepreneurship education to facilitate</v3:text>
-            </v3:description>
-        </v1:descriptions>
+    <v1:descriptions>
+        <v3:description type="projectdescription">
+            <v3:text lang="da" country="DK">The project description</v3:text>
+        </v3:description>
+        <v3:description type="laymansdescription">
+            <v3:text lang="da" country="DK"></v3:text>
+        </v3:description>
+        <v3:description type="keyfindings">
+            <v3:text lang="da" country="DK">A key findings description of the project</v3:text>
+        </v3:description>
+    </v1:descriptions>
         <v1:ids>
             <v3:id type="navision_id">9000504</v3:id>
         </v1:ids>
