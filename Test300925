@@ -57,9 +57,8 @@ owned by “Danish – Norwegian Culture Foundation” in either Oslo or Copenha
             <v1:organisation id="84859120" />
         </v1:organisations>
         <v1:managedByOrganisation id="84859120" />
-        <Period>
-            <v1:startDate>2020-09-18</v1:startDate>
-            <v1:endDate>2024-05-31</v1:endDate>
+        <v1:startDate>2020-09-18</v1:startDate>
+        <v1:endDate>2024-05-31</v1:endDate>
         <v1:collaborative>false</v1:collaborative>
         <v1:visibility>Public</v1:visibility>
         <v1:workflow>approved</v1:workflow>
