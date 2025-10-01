@@ -41,18 +41,12 @@ owned by “Danish – Norwegian Culture Foundation” in either Oslo or Copenha
                 </v1:organisationIds>
                 <v1:role>pi</v1:role>
                 <v1:academicOwnership>1.0</v1:academicOwnership>
-                <v1:plannedResearcherCommitment>1.0</v1:plannedResearcherCommitment>
             </v1:internalParticipant>
             <v1:internalParticipant>
                 <v1:personId>301100</v1:personId>
                 <v1:role>pi</v1:role>
             </v1:internalParticipant>
         </v1:internalParticipants>
-        <v1:internalParticipantsResearcherCommitment>
-            <v1:researcherCommitment>
-                <v1:personId>297472</v1:personId>
-            </v1:researcherCommitment>
-        </v1:internalParticipantsResearcherCommitment>
         <v1:organisations>
             <v1:organisation id="84859120" />
         </v1:organisations>
