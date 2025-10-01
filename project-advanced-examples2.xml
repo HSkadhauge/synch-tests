@@ -22,7 +22,7 @@
             <v1:internalParticipant>
                 <v1:personId>297472</v1:personId>
                 <v1:organisationIds>
-                    <v1:organisation id="449" />
+                    <v1:organisation id="508" />
                 </v1:organisationIds>
                 <v1:role>pi</v1:role>
             </v1:internalParticipant>
@@ -38,7 +38,7 @@
                 <v1:externalOrgId>UoE</v1:externalOrgId>
             </v1:externalParticipant>
         </v1:externalParticipants>
-        <v1:managedByOrganisation id="508" />
+        <v1:managedByOrganisation id="449" />
         <v1:startDate>2007-10-26</v1:startDate>
         <v1:endDate>2008-02-14</v1:endDate>
         <v1:collaborative>true</v1:collaborative>
