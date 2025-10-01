@@ -5,9 +5,9 @@
             <v3:text lang="da" country="DK">1st Nordic Doctoral Summit for Research on Entrepreneurship Education</v3:text>
         </v1:title>
         <v1:descriptions>
-            <v3:description type="projectdescription">
+            <v1:description type="projectdescription">
                 <v3:text lang="da" country="DK">The project description</v3:text>
-            </v3:description>
+            </v1:description>
         </v1:descriptions>
         <v1:ids>
             <v3:id type="navision_id">9000504</v3:id>
@@ -32,17 +32,9 @@
                 <v1:externalOrgId>UoE</v1:externalOrgId>
             </v1:externalParticipant>
         </v1:externalParticipants>
-        <v1:externalOrganisations>
-            <v3:externalOrganisationAssociation>
-                <v3:externalOrgName>Viborg Kunsthal</v3:externalOrgName>
-                <v3:externalOrgType>unknown</v3:externalOrgType>
-            </v3:externalOrganisationAssociation>
-        </v1:externalOrganisations>
         <v1:managedByOrganisation id="508" />
-        <v1:period>
-            <v1:startDate>2007-10-26</v1:startDate>
-            <v1:endDate>2008-02-14</v1:endDate>
-        </v1:period>    
+        <v1:startDate>2007-10-26</v1:startDate>
+        <v1:endDate>2008-02-14</v1:endDate>
         <v1:collaborative>true</v1:collaborative>
         <v1:collaborators>
             <v3:collaborator type="jointapplicant">
