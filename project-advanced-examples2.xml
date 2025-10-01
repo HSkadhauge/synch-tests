@@ -1,29 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <v1:upmprojects xmlns:v1="v1.upmproject.pure.atira.dk" xmlns:v3="v3.commons.pure.atira.dk">
-    <v1:upmproject id="project3" type="other">
-        <v1:activityTypes>
-            <v1:activityType>research</v1:activityType>
-        </v1:activityTypes>
+    <v1:upmproject id="9000504" type="research">
         <v1:title>
-            <v3:text lang="en" country="GB">The title of the project</v3:text>
+            <v3:text lang="da" country="DK">1st Nordic Doctoral Summit for Research on Entrepreneurship Education</v3:text>
         </v1:title>
-        <v1:shortTitle>
-            <v3:text lang="en" country="GB">A short title</v3:text>
-        </v1:shortTitle>
-        <v1:acronym>TTotP</v1:acronym>
         <v1:descriptions>
             <v3:description type="projectdescription">
                 <v3:text lang="en" country="GB">The project description</v3:text>
             </v3:description>
-            <v3:description type="laymansdescription">
-                <v3:text lang="en" country="GB">A laymans description of the project</v3:text>
-            </v3:description>
-            <v3:description type="keyfindings">
-                <v3:text lang="en" country="GB">A key findings description of the project</v3:text>
-            </v3:description>
         </v1:descriptions>
         <v1:ids>
-            <v3:id type="projectid">externalid1</v3:id>
+            <v3:id type="navision_id">9000504</v3:id>
         </v1:ids>
         <v1:internalParticipants>
             <v1:internalParticipant>
