@@ -6,7 +6,7 @@
         </v1:title>
         <v1:descriptions>
             <v3:description type="projectdescription">
-                <v3:text lang="en" country="GB">The project description</v3:text>
+                <v3:text lang="da" country="DK">The project description</v3:text>
             </v3:description>
         </v1:descriptions>
         <v1:ids>
@@ -39,8 +39,10 @@
             </v3:externalOrganisationAssociation>
         </v1:externalOrganisations>
         <v1:managedByOrganisation id="508" />
-        <v1:startDate>2007-10-26</v1:startDate>
-        <v1:endDate>2008-02-14</v1:endDate>
+        <v1:period>
+            <v1:startDate>2007-10-26</v1:startDate>
+            <v1:endDate>2008-02-14</v1:endDate>
+        </v1:period>    
         <v1:collaborative>true</v1:collaborative>
         <v1:collaborators>
             <v3:collaborator type="jointapplicant">
