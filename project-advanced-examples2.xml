@@ -57,20 +57,12 @@
             <v3:logicalGroup logicalName="/dk/atira/pure/upmproject/keywords/ugrp">
                 <v3:structuredKeywords>
                     <v3:structuredKeyword>
-                        
+                        <v3:structuredKeyword classification="/dk/atira/pure/upmproject/keywords/ugrp/8000">
                     </v3:structuredKeyword>
                 </v3:structuredKeywords>
             </v3:logicalGroup>
-            <!-- Example of structuredKeywords, for this to work a keyword group with the logical name ASJCSubjectAreas and classification scheme /dk/atira/pure/subjectarea/asjc must exist
-            <v3:logicalGroup logicalName="ASJCSubjectAreas">
-                <v3:structuredKeywords>
-                    <v3:structuredKeyword classification="/dk/atira/pure/subjectarea/asjc/2200/2204"/>
-                    <v3:structuredKeyword classification="/dk/atira/pure/subjectarea/asjc/1500/1502"/>
-                </v3:structuredKeywords>
-            </v3:logicalGroup>
-            -->
         </v1:keywords>
-        <v1:visibility>Confidential</v1:visibility>
+        <v1:visibility>Public</v1:visibility>
         <v1:workflow>approved</v1:workflow>
     </v1:upmproject>
 </v1:upmprojects>
