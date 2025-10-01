@@ -2,7 +2,7 @@
 <v1:upmprojects xmlns:v1="v1.upmproject.pure.atira.dk" xmlns:v3="v3.commons.pure.atira.dk">
     <v1:upmproject id="9000504" type="research">
         <v1:title>
-            <v3:text lang="en" country="GB">1st Nordic Doctoral Summit for Research on Entrepreneurship Education</v3:text>
+            <v3:text lang="da" country="DK">1st Nordic Doctoral Summit for Research on Entrepreneurship Education</v3:text>
         </v1:title>
         <v1:descriptions>
             <v3:description type="projectdescription">
@@ -51,7 +51,7 @@ owned by “Danish – Norwegian Culture Foundation” in either Oslo or Copenha
         </v1:organisations>
         <v1:managedByOrganisation id="84859120" />
         <v1:startDate>2020-09-18</v1:startDate>
-        <v3:endDate>2024-05-31</v3:endDate>
+        <v1:endDate>2024-05-31</v1:endDate>
         <v1:collaborative>false</v1:collaborative>
         <v1:visibility>Public</v1:visibility>
         <v1:workflow>approved</v1:workflow>
