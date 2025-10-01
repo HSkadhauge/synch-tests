@@ -4,8 +4,8 @@
         <v1:title>
             <v3:text lang="en" country="GB">1st Nordic Doctoral Summit for Research on Entrepreneurship Education</v3:text>
         </v1:title>
-        <v3:descriptions>
-            <v1:description type="projectdescription">
+        <v1:descriptions>
+            <v3:description type="projectdescription">
                 <v3:text lang="en" country="GB">Nordic Doctoral Summit for Research on Entrepreneurship Education (NDSREE) will be an annual event aimed at bringing together doctoral students from the Nordic
 countries. NDSREE will launch in 2024 with an event establishing the summit as
 an institution. The purpose is to bring together the growing amount of Nordic
@@ -28,8 +28,8 @@ early career academics in the field of entrepreneurship education. The
 NDSREE-event will be organized in relation to one of the two conference centers
 owned by “Danish – Norwegian Culture Foundation” in either Oslo or Copenhagen
 (see http://dansk-norsk.no/sok-stipend).</v3:text>
-            </v1:description>
-        </v3:descriptions>
+            </v3:description>
+        </v1:descriptions>
         <v1:ids>
             <v3:id type="navision_id">9000504</v3:id>
         </v1:ids>
