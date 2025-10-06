@@ -71,11 +71,6 @@ owned by “Danish – Norwegian Culture Foundation” in either Oslo or Copenha
                 <v3:structuredKeywords>
                     <v3:structuredKeyword classification="/dk/atira/pure/keywords/finansiering/external_funding"/>
                 <v3:structuredKeyword>
-                        <v3:freeKeywords>
-                            <v3:freeKeyword>
-                                <v3:text lang="en" country="GB">keyword</v3:text>
-                            </v3:freeKeyword>
-                        </v3:freeKeywords>
                     </v3:structuredKeyword>
                 </v3:structuredKeywords>
             </v3:logicalGroup>
