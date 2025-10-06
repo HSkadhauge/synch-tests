@@ -115,6 +115,19 @@
         <v1:managedByOrganisation id="84859120" />
         <v1:startDate>2007-10-26</v1:startDate>
         <v1:collaborative>false</v1:collaborative>
+        <v1:keywords>
+            <v3:logicalGroup logicalName="keywordContainers">
+                <v3:structuredKeywords>
+                    <v3:structuredKeyword>
+                        <v3:freeKeywords>
+                            <v3:freeKeyword>
+                                <v3:text lang="en" country="GB">keyword</v3:text>
+                            </v3:freeKeyword>
+                        </v3:freeKeywords>
+                    </v3:structuredKeyword>
+                </v3:structuredKeywords>
+            </v3:logicalGroup>
+        </v1:keywords>
         <v1:visibility>Public</v1:visibility>
         <v1:workflow>approved</v1:workflow>
     </v1:upmproject>
