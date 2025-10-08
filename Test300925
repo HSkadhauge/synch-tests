@@ -59,6 +59,10 @@ owned by “Danish – Norwegian Culture Foundation” in either Oslo or Copenha
                 <v3:externalOrgName>Viborg Kunsthal</v3:externalOrgName>
                 <v3:leadCollaborator>true</v3:leadCollaborator>
             </v3:collaborator>
+            <v3:collaborator type="projectpartner">
+                <v3:externalOrgName>Danmarks Statistik</v3:externalOrgName>
+                <v3:leadCollaborator>false</v3:leadCollaborator>
+            </v3:collaborator>
         </v1:collaborators>
         <v1:keywords>
             <v3:logicalGroup logicalName="/dk/atira/pure/upmproject/keywords/ugrp">
