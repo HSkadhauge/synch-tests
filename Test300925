@@ -47,9 +47,6 @@ owned by “Danish – Norwegian Culture Foundation” in either Oslo or Copenha
                 <v1:role>pi</v1:role>
             </v1:internalParticipant>
         </v1:internalParticipants>
-        <v1:organisations>
-            <v1:organisation id="84859120" />
-        </v1:organisations>
         <v1:managedByOrganisation id="84859120" />
         <v1:startDate>2020-09-18</v1:startDate>
         <v1:endDate>2024-05-31</v1:endDate>
