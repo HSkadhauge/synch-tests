@@ -53,7 +53,13 @@ owned by “Danish – Norwegian Culture Foundation” in either Oslo or Copenha
         <v1:managedByOrganisation id="84859120" />
         <v1:startDate>2020-09-18</v1:startDate>
         <v1:endDate>2024-05-31</v1:endDate>
-        <v1:collaborative>false</v1:collaborative>
+        <v1:collaborative>true</v1:collaborative>
+        <v1:collaborators>
+            <v3:collaborator type="jointapplicant">
+                <v3:externalOrgName>Viborg Kunsthal</v3:externalOrgName>
+                <v3:leadCollaborator>true</v3:leadCollaborator>
+            </v3:collaborator>
+        </v1:collaborators>
         <v1:keywords>
             <v3:logicalGroup logicalName="/dk/atira/pure/upmproject/keywords/ugrp">
                 <v3:structuredKeywords>
