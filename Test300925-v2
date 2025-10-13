@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<v1:upmprojects xmlns:v1="v1.upmproject.pure.atira.dk" xmlns:v3="v3.commons.pure.atira.dk">
+    <v1:upmproject id="9000504" type="research">
+        <v1:title>
+            <v3:text lang="da" country="DK">1st Nordic Doctoral Summit for Research on Entrepreneurship Education</v3:text>
+        </v1:title>
+        <v1:ids>
+            <v3:id type="navision_id">9000504</v3:id>
+        </v1:ids>
+        <v1:internalParticipants>
+            <v1:internalParticipant>
+            <v1:internalParticipant>
+                <v1:personId>301100</v1:personId>
+                <v1:role>pi</v1:role>
+            </v1:internalParticipant>
+        </v1:internalParticipants>
+        <v1:startDate>2020-09-18</v1:startDate>
+        <v1:endDate>2024-05-31</v1:endDate>
+        <v1:collaborative>true</v1:collaborative>
+        <v1:collaborators>
+            <v3:collaborator type="jointapplicant">
+                <v3:externalOrgName>Viborg kunsthal</v3:externalOrgName>
+                <v3:leadCollaborator>true</v3:leadCollaborator>
+            </v3:collaborator>
+            <v3:collaborator type="jointapplicant">
+                <v3:externalOrgName>Danmarks Statistik</v3:externalOrgName>
+                <v3:leadCollaborator>false</v3:leadCollaborator>
+            </v3:collaborator>
+        </v1:collaborators>
+        <v1:keywords>
+            <v3:logicalGroup logicalName="/dk/atira/pure/keywords/uddannelseskoder">
+                <v3:structuredKeywords>
+                    <v3:structuredKeyword classification="/dk/atira/pure/keywords/uddannelseskoder/8000"/>
+                    <v3:structuredKeyword classification="/dk/atira/pure/keywords/uddannelseskoder/2321"/>
+                <v3:structuredKeyword>
+                    </v3:structuredKeyword>
+                </v3:structuredKeywords>
+            </v3:logicalGroup>
+            <v3:logicalGroup logicalName="/dk/atira/pure/keywords/finansiering">
+                <v3:structuredKeywords>
+                    <v3:structuredKeyword classification="/dk/atira/pure/keywords/finansiering/only_internal_funding"/>
+                <v3:structuredKeyword>
+                    </v3:structuredKeyword>
+                </v3:structuredKeywords>
+            </v3:logicalGroup>
+        </v1:keywords>
+        <v1:visibility>Public</v1:visibility>
+        <v1:workflow>approved</v1:workflow>
+    </v1:upmproject>
+</v1:upmprojects>
