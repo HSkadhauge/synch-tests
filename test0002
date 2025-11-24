@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<v1:upmprojects
+      xmlns:v1="v1.upmproject.pure.atira.dk"
+      xmlns:v3="v3.commons.pure.atira.dk">
+      <v1:upmproject id="9000503" type="research">
+            <v1:title>
+                  <v3:text lang="da" country="DK">test0002</v3:text>
+            </v1:title>
+            <v1:descriptions>
+                  <v3:description type="projectdescription">
+                        <v3:text lang="da" country="DK">Test Test</v3:text>
+                  </v3:description>
+            </v1:descriptions>
+            <v1:ids>
+                  <v3:id type="navision_id">9000503</v3:id>
+            </v1:ids>
+            <v1:internalParticipants>
+                  <v1:internalParticipant>
+                        <v1:personId>301100</v1:personId>
+                        <v1:role>pi</v1:role>
+                  </v1:internalParticipant>
+            </v1:internalParticipants>
+            <v1:managedByOrganisation id="84859120" />
+            <v1:startDate>2020-09-18</v1:startDate>
+            <v1:endDate>2024-05-31</v1:endDate>
+            <v1:collaborative>true</v1:collaborative>
+            <v1:collaborators>
+                  <v3:collaborator type="jointapplicant">
+                        <v3:externalOrgName>viborg knsthal</v3:externalOrgName>
+                        <v3:leadCollaborator>true</v3:leadCollaborator>
+                  </v3:collaborator>
+                  <v3:collaborator type="jointapplicant">
+                        <v3:externalOrgName>Danmarks Statistik</v3:externalOrgName>
+                        <v3:leadCollaborator>false</v3:leadCollaborator>
+                  </v3:collaborator>
+            </v1:collaborators>
+            <v1:internalParticipants>
+                  <v1:internalParticipant>
+                        <v1:personId>297472</v1:personId>
+                        <v1:organisationIds>
+                              <v1:organisation id="449" />
+                        </v1:organisationIds>
+                        <v1:role>pi</v1:role>
+                  </v1:internalParticipant>
+                  <v1:internalParticipant>
+                        <v1:personId>301100</v1:personId>
+                        <v1:role>pi</v1:role>
+                  </v1:internalParticipant>
+            </v1:internalParticipants>
+            <v1:managedByOrganisation id="84859120" />
+            <v1:startDate>2020-09-18</v1:startDate>
+            <v1:endDate>2024-05-31</v1:endDate>
+            <v1:collaborative>true</v1:collaborative>
+            <v1:collaborators>
+                  <v3:collaborator type="jointapplicant">
+                        <v3:externalOrgName>viborg knsthal</v3:externalOrgName>
+                        <v3:leadCollaborator>true</v3:leadCollaborator>
+                  </v3:collaborator>
+                  <v3:collaborator type="jointapplicant">
+                        <v3:externalOrgName>Danmarks Statistik</v3:externalOrgName>
+                        <v3:leadCollaborator>false</v3:leadCollaborator>
+                  </v3:collaborator>
+            </v1:collaborators>
+            <v1:visibility>Public</v1:visibility>
+            <v1:workflow>approved</v1:workflow>
+      </v1:upmproject>
+</v1:upmprojects>
